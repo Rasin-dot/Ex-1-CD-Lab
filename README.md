@@ -80,10 +80,15 @@ int main() {
 
 # OUTPUT
 SYMBOL FOUND
+
+
 <img width="1472" height="748" alt="Screenshot 2026-07-24 161936" src="https://github.com/user-attachments/assets/bd72eb0d-93c2-4ade-b7a8-5aeb6ea66943" />
 
 
 SYMBOL NOT FOUND
+
+
+
 <img width="1470" height="722" alt="Screenshot 2026-07-24 162004" src="https://github.com/user-attachments/assets/9b7394b9-e474-4111-aa8b-b7968e52ed96" />
 
 
